@@ -1,0 +1,50 @@
+h1{
+    color: yellow;
+}
+body{
+    background-color:gray;
+}
+
+th{
+    color: blue;
+}
+p{
+    color: black;
+}
+td{
+    color:maroon;
+}
+table{
+    align-content: center;
+}
+button{
+    color:crimson;
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+fieldset{
+    color:black
+}
+.button{
+    color: black;
+}
+.fcontainer{
+    display: flex;
+    
+}
+.fitems{
+    
+    border: black 220px;
+    height: 300px;
+    width: 600px;
+    
+}
+.flexitems{
+    margin-right: 0px;
+
+    height: 300px;
+    width: 600px;
+}  
+.table{
+    margin-bottom: 19px;
+}
